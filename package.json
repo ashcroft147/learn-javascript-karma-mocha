@@ -1,0 +1,30 @@
+{
+  "name": "learn-javascript-karma-mocha",
+  "version": "1.0.0",
+  "description": "A basic Karma and Mocha, Chai Setup",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashcroft147/learn-javascript-karma-mocha.git"
+  },
+  "keywords": [
+    "karma",
+    "mocha",
+    "chai"
+  ],
+  "author": "ashcroft147",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashcroft147/learn-javascript-karma-mocha/issues"
+  },
+  "homepage": "https://github.com/ashcroft147/learn-javascript-karma-mocha#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1"
+  }
+}
