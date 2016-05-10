@@ -20,11 +20,17 @@
     "url": "https://github.com/ashcroft147/learn-javascript-karma-mocha/issues"
   },
   "homepage": "https://github.com/ashcroft147/learn-javascript-karma-mocha#readme",
-  "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.4.5"
-  },
   "dependencies": {
-    "grunt": "^1.0.1"
+    "browserify": "^13.0.1",
+    "chai": "^3.5.0",
+    "grunt": "^1.0.1",
+    "karma": "^0.13.22",
+    "karma-browserify": "^5.0.5",
+    "mocha": "^2.4.5",
+    "watchify": "^3.7.0"
+  },
+  "devDependencies": {
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-mocha": "^1.0.1"
   }
 }
